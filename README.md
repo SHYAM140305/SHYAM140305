@@ -71,14 +71,6 @@
 
 <br>
 
-<!-- ──────────────── ANIMATION & STATS ──────────────── -->
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
-
-<!--- Contribution Snake Animation (Dark Mode) -->
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/SHYAM140305/SHYAM140305/output/github-contribution-grid-snake-dark.svg)
-
 <!-- ────────────── FOOTER ────────────── -->
 
 <p align="center" style="font-size:13px;color:#AAB8C2;">Crafted for innovation · Shyam J · &copy; 2025</p>
