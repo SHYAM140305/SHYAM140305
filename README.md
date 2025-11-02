@@ -93,7 +93,9 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Edu Smart Bot</h3>
+        <h3 align="center">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/graduationcap.svg" alt="Edu Icon" width="28" style="vertical-align:middle;filter:invert(16%) sepia(50%) saturate(800%) hue-rotate(250deg) brightness(1.3);margin-right:8px;"/> Edu Smart Bot
+        </h3>
         <p align="center">
           <a href="https://github.com/SHYAM140305/Edu-Smart-Bot" target="_blank">
             <img src="https://raw.githubusercontent.com/SHYAM140305/Edu-Smart-Bot/main/assets/edu-smart-bot.gif" width="100%" alt="Edu Smart Bot"/>
@@ -111,7 +113,9 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Self-Driving Car AI Simulation</h3>
+        <h3 align="center">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/toyota.svg" alt="Car Icon" width="30" style="vertical-align:middle;filter:invert(14%) sepia(98%) saturate(1747%) hue-rotate(221deg) brightness(1.3);margin-right:8px;"/> Self-Driving Car AI Simulation
+        </h3>
         <p align="center">
           <a href="https://github.com/SHYAM140305/Self-Driving-Car-AI-Simulation" target="_blank">
             <img src="https://raw.githubusercontent.com/SHYAM140305/Self-Driving-Car-AI-Simulation/main/assets/self-driving-demo.gif" width="100%" alt="Self-Driving Car AI"/>
@@ -131,7 +135,9 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="center">Sign Language Detection Using Deep Learning</h3>
+        <h3 align="center">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/handshake.svg" alt="Hand Icon" width="30" style="vertical-align:middle;filter:invert(27%) sepia(95%) saturate(1590%) hue-rotate(128deg) brightness(1.3);margin-right:8px;"/> Sign Language Detection Using Deep Learning
+        </h3>
         <p align="center">
           <a href="https://github.com/SHYAM140305/Sign-Language-Recognition" target="_blank">
             <img src="https://raw.githubusercontent.com/SHYAM140305/Sign-Language-Recognition/main/assets/sign-language-demo.gif" width="50%" alt="Sign Language Detection"/>
