@@ -35,47 +35,69 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="AI Engineer" style="border-radius: 50%; border: 3px solid #38BDAE;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Transforming+Vision+into+Reality;AI+%7C+Vision+%7C+Innovation" alt="Typing SVG" />
 </div>
 
-<div align="center" style="max-width: 800px; margin: 0 auto;">
-  <p style="font-size: 18px; line-height: 1.8; color: #ffffff;">
-    👋 Hey there! I'm <span style="color: #38BDAE; font-weight: bold;">Shyam Jayakanthan</span>, an AI & Vision Engineer crafting the future of intelligent systems. 
-    I transform complex data into powerful solutions that understand and interact with the visual world around us.
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <div style="padding: 20px; border-left: 5px solid #38BDAE; background: linear-gradient(to right, rgba(25,0,25,0.5), transparent);">
+        <h3 style="color: #38BDAE; margin-top: 0;">👋 Hey there!</h3>
+        <p style="font-size: 16px; line-height: 1.8; color: #ffffff; margin: 15px 0;">
+          I'm <strong style="color: #38BDAE;">Shyam Jayakanthan</strong>, an AI & Vision Engineer passionate about creating intelligent systems that see, understand, and interact with the world.
+        </p>
+        <p style="font-size: 15px; line-height: 1.8; color: #ffffff;">
+          I specialize in transforming complex data into powerful solutions—bridging the gap between cutting-edge research and real-world applications. My work focuses on building AI systems that make a tangible impact.
+        </p>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d61c.gif" width="100%" alt="AI Coding"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="margin: 30px 0;">
-  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 15px;">
+<div align="center" style="margin: 40px 0;">
+  <table>
     <tr>
-      <td align="center" style="background: linear-gradient(135deg, #190019 0%, #2B124C 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b5d5-5bfae8ad2f30.gif" width="50" alt="Vision"/>
-        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">Computer Vision</h3>
-        <p style="color: #ffffff; margin: 0;">Image Analysis & Processing</p>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #190019 0%, #2B124C 100%); padding: 30px; border-radius: 20px; border: 2px solid #38BDAE; min-height: 200px;">
+          <h1 style="margin: 10px 0; font-size: 50px;">👁️</h1>
+          <h3 style="color: #38BDAE; margin: 15px 0 8px 0;">Computer Vision</h3>
+          <p style="color: #ffffff; margin: 0; font-size: 14px;">Image Analysis & Processing</p>
+        </div>
       </td>
-      <td align="center" style="background: linear-gradient(135deg, #2B124C 0%, #190019 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
-        <img src="https://user-images.githubusercontent.com/74038190/212281454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="AI"/>
-        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">Deep Learning</h3>
-        <p style="color: #ffffff; margin: 0;">Neural Networks & AI</p>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #2B124C 0%, #190019 100%); padding: 30px; border-radius: 20px; border: 2px solid #38BDAE; min-height: 200px;">
+          <h1 style="margin: 10px 0; font-size: 50px;">🧠</h1>
+          <h3 style="color: #38BDAE; margin: 15px 0 8px 0;">Deep Learning</h3>
+          <p style="color: #ffffff; margin: 0; font-size: 14px;">Neural Networks & AI</p>
+        </div>
       </td>
-      <td align="center" style="background: linear-gradient(135deg, #190019 0%, #2B124C 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" alt="Cloud"/>
-        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">ML Deployment</h3>
-        <p style="color: #ffffff; margin: 0;">Cloud & Edge AI</p>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #190019 0%, #2B124C 100%); padding: 30px; border-radius: 20px; border: 2px solid #38BDAE; min-height: 200px;">
+          <h1 style="margin: 10px 0; font-size: 50px;">☁️</h1>
+          <h3 style="color: #38BDAE; margin: 15px 0 8px 0;">ML Deployment</h3>
+          <p style="color: #ffffff; margin: 0; font-size: 14px;">Cloud & Edge AI</p>
+        </div>
       </td>
-      <td align="center" style="background: linear-gradient(135deg, #2B124C 0%, #190019 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt="Transfer"/>
-        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">Transfer Learning</h3>
-        <p style="color: #ffffff; margin: 0;">Model Optimization</p>
+      <td align="center" width="25%">
+        <div style="background: linear-gradient(135deg, #2B124C 0%, #190019 100%); padding: 30px; border-radius: 20px; border: 2px solid #38BDAE; min-height: 200px;">
+          <h1 style="margin: 10px 0; font-size: 50px;">🔄</h1>
+          <h3 style="color: #38BDAE; margin: 15px 0 8px 0;">Transfer Learning</h3>
+          <p style="color: #ffffff; margin: 0; font-size: 14px;">Model Optimization</p>
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="max-width: 800px; margin: 0 auto;">
-  <p style="font-size: 16px; line-height: 1.8; color: #ffffff; font-style: italic;">
-    💡 Always exploring the cutting-edge of AI, I build systems that bridge the gap between innovative research and real-world applications—turning complex algorithms into practical solutions that make a difference.
-  </p>
+<div align="center">
+  <blockquote style="max-width: 800px; margin: 30px auto; padding: 25px; background: linear-gradient(135deg, #190019 0%, #2B124C 100%); border-left: 5px solid #38BDAE; border-radius: 10px;">
+    <p style="font-size: 16px; line-height: 1.8; color: #ffffff; margin: 0;">
+      💡 <em>Always exploring the cutting-edge of AI, I build systems that bridge the gap between innovative research and real-world applications—turning complex algorithms into practical solutions that make a difference.</em>
+    </p>
+  </blockquote>
 </div>
 
 <p align="center">
