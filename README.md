@@ -244,22 +244,57 @@
     </tr>
   </table>
 </div>
-
-<div align="center">
-  <h3>Certifications</h3>
-  <div style="background-color: #190019; padding: 15px; border-radius: 10px; border: 1px solid #38BDAE; display: inline-block; margin: 10px;">
-    <h1>🏆</h1>
-    <p><strong>Python (Basic)</strong> - Verified Skill Certification</p>
-  </div>
-</div>
-
-<div align="center">
-  <div style="background-color: #2B124C; padding: 15px; border-radius: 10px; border: 1px solid #38BDAE; margin: 20px 0; display: inline-block;">
-    <h4 style="color: #38BDAE;">Student Details | SHYAM JAYAKANTHAN</h4>
-    <p>SRM ID | SHYAM140305</p>
-  </div>
-</div>
-
+<!-- ACHIEVEMENTS & CERTIFICATIONS DROPDOWN -->
+<details>
+  <summary><b>✨ Achievements & Certifications (Click to Expand)</b></summary>
+  <br/>
+  <ul>
+    <li><b>Certifications:</b>
+      <ul>
+        <li>Generative AI Professional (2024)</li>
+        <li>Oracle Cloud Infrastructure GenAI (2024)</li>
+        <li>Machine Learning (Stanford Online)</li>
+        <li>Deep Learning (Andrew Ng)</li>
+        <li>Python for Data Science (IBM)</li>
+        <li>React.js Fundamentals (Meta)</li>
+      </ul>
+    </li>
+    <br/>
+    <li><b>Hackathon Achievements:</b>
+      <ul>
+        <li>🥇 Hackstreet 3.0 (2025) — 1st Place for real-time AI automation with vision analytics</li>
+        <li>🥇 Appathon 2.0 (2025) — Winner for AI-driven productivity app (150+ teams)</li>
+        <li>🥇 Tamizh-A-THON 1.0 (2025) — Winner for OCR + NLP innovation under SRM TCC</li>
+      </ul>
+    </li>
+    <br/>
+    <li><b>Professional Distinctions:</b>
+      <ul>
+        <li>AI-driven Troubleshooting System for Chennai Metro Rail (NLP, semantic search, Streamlit UI)</li>
+        <li>Developed RAG Chatbot with OpenWeatherMap API integration (Sentient Scripts)</li>
+        <li>Heavy Repair Management System (Renault Nissan Automotive India Pvt. Ltd.)</li>
+      </ul>
+    </li>
+    <br/>
+    <li><b>Leadership:</b>
+      <ul>
+        <li>President, NEXT GEN AI @ SRMIST (2025–)</li>
+        <li>Vice President, NEXT GEN AI @ SRMIST (2024–25)</li>
+        <li>Technical Lead, AI Research Group (2023–24)</li>
+        <li>Research Member, Cintel Students Association</li>
+      </ul>
+    </li>
+    <br/>
+    <li><b>Academic/Research Highlights:</b>
+      <ul>
+        <li>AI-powered Edu Smart Bot (OCR, Q&A, analytics)</li>
+        <li>Self-Driving Car AI Simulation (DQN, CNN)</li>
+        <li>Image Captioning System (CNN-RNN with Attention, BLEU-4: 0.32)</li>
+        <li>Preparing publication: "Efficient Fault Analysis in Industrial Systems using AI" (Expected 2025)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
