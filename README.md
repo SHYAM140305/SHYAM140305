@@ -212,56 +212,7 @@
 </p>
 <div align="center">
   <!-- Auto-updating top languages chart -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHYAM140305&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=190019&title_color=38BDAE&cache_seconds=3600" width="50%" />
-</div>
-
-<h3 align="center">Most Used Languages</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <!-- Auto-updating language donut chart -->
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHYAM140305&langs_count=6&layout=donut&theme=react&hide_border=true&bg_color=2B124C&title_color=38BDAE&text_color=ffffff&cache_seconds=3600" width="100%" alt="Language Donut Chart"/>
-      </td>
-      <td width="50%">
-        <h4 style="color: #38BDAE; margin-top: 0;">Languages & Technologies</h4>
-        <ul style="text-align: left; color: #ffffff;">
-          <li><b>🐍 Python</b> - Advanced (ML/DL, Computer Vision, NLP)</li>
-          <li><b>⚛️ JavaScript/TypeScript</b> - Full Stack Development</li>
-          <li><b>⚙️ C</b> - Systems Programming</li>
-          <li><b>☕ Java</b> - Backend Development</li>
-          <li><b>📊 SQL</b> - Database Management</li>
-          <li><b>🎨 HTML/CSS</b> - Frontend Development</li>
-          <li><b>📱 React.js/Next.js</b> - Modern Web Frameworks</li>
-          <li><b>🔄 Node.js/Express</b> - Server-side Development</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h4 style="color: #38BDAE;">AI/ML Frameworks & Tools</h4>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PyTorch-2B124C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-        <p><b>PyTorch</b></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/TensorFlow-2B124C?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-        <p><b>TensorFlow</b></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/OpenCV-2B124C?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-        <p><b>OpenCV</b></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HuggingFace-2B124C?style=for-the-badge&logo=huggingface&logoColor=FFD21D"/>
-        <p><b>HuggingFace</b></p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHYAM140305&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=190019&title_color=38BDAE&cache_seconds=3600" width="40%" />
 </div>
 
 <p align="center">
