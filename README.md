@@ -1,76 +1,280 @@
 <!-- ──────────────── BANNER ──────────────── -->
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=243654,1d7fa3,11B4DB,38BDAE&height=220&section=header&text=Shyam%20J&fontSize=52&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Innovation&descAlignY=66&fontColor=FAFAFB&descColor=26D1F3&animation=twinkling)
-
-<!-- ────────────── VISITOR + LINKS ────────────── -->
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FSHYAM140305%2FSHYAM140305&label=VISITORS&labelColor=%23456&countColor=%2311B4DB" />
-  <br><br>
-  <a href="https://www.linkedin.com/in/shyam-jayakanthan-050a85284"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=11B4DB" /></a>
-  <a href="mailto:jshyam2005@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://github.com/SHYAM140305"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=38BDAE" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:38BDAE&height=300&section=header&text=Shyam%20Jayakanthan&desc=AI%20%7C%20Vision%20%7C%20Innovation&fontSize=58&fontAlignY=35&descAlignY=58&animation=twinkling&fontColor=ffffff&descColor=38BDAE" />
 </div>
 
-<!-- ─────────────── ABOUT ─────────────── -->
-<div>
-
-> <b>AI/ML Engineer · Full Stack Developer · Futurist Thinker</b>  
-> Architecting generative AI, computer vision and NLP systems that drive transformation in education, automation, and intelligent apps. Skilled in research-to-product delivery, rapid prototyping, and scalable cloud solutions.
-
-</div>
-
-<br>
-
-<details>
-<summary><b>✨ Professional Highlights · Click to expand</b></summary><br>
-
-- President, NEXT GEN AI @ SRMIST (2025–) · Led 400+ AI innovators, industry/academic bridge
-- Student Coordinator, Sentient Scripts (2024–25) · University–industry AI pipelines
-- AI Intern, Chennai Metro Rail · NLP troubleshooting, LLM search (95%+ acc, 40% faster)
-- Generative AI, Vision & EdTech: RAG, LLM chatbot apps, OCR, RL-based automation
-- Published/presenting: "Efficient Fault Analysis in Industrial Systems using AI" (2025 expected)
-
-</details>
-
-<!-- ─────────────── SKILLS ─────────────── -->
-
-<br>
-
-# ⚡️ Tech Stack
-
-|    Area     |   Technologies/Tools   |
-|:-----------:|:----------------------|
-| **AI/ML**   | <img src="https://img.shields.io/badge/PyTorch-292D38?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/TensorFlow-292D38?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/HuggingFace-292D38?style=for-the-badge&logo=huggingface&logoColor=FFD21D"/> <img src="https://img.shields.io/badge/OpenCV-292D38?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/FAISS-292D38?style=for-the-badge&logoColor=white"/> |
-| **Lang.**   | <img src="https://img.shields.io/badge/Python-292D38?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/C-292D38?style=for-the-badge&logo=c&logoColor=4F88C7" /> <img src="https://img.shields.io/badge/JavaScript-292D38?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> |
-| **Cloud**   | <img src="https://img.shields.io/badge/AWS-292D38?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Docker-292D38?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/CI%2FCD-292D38?style=for-the-badge&logo=githubactions&logoColor=11B4DB" /> |
-| **FullStack** | <img src="https://img.shields.io/badge/React-292D38?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-292D38?style=for-the-badge&logo=node.js&logoColor=8CC84B"/> <img src="https://img.shields.io/badge/Flask-292D38?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Express-292D38?style=for-the-badge&logo=express&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/REST%20API-292D38?style=for-the-badge&logoColor=white"/> |
-| **Data**    | <img src="https://img.shields.io/badge/Pandas-292D38?style=for-the-badge&logo=pandas&logoColor=150458" /> <img src="https://img.shields.io/badge/Numpy-292D38?style=for-the-badge&logo=numpy&logoColor=013243" /> <img src="https://img.shields.io/badge/Scikit--learn-292D38?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" /> |
-| **DB**      | <img src="https://img.shields.io/badge/MongoDB-292D38?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/SQLite-292D38?style=for-the-badge&logo=sqlite&logoColor=003B57"/> <img src="https://img.shields.io/badge/Redis-292D38?style=for-the-badge&logo=redis&logoColor=DC382D"/> |
-| **Others**  | <img src="https://img.shields.io/badge/Power%20BI-292D38?style=for-the-badge&logo=powerbi&logoColor=F2C811"/> <img src="https://img.shields.io/badge/Figma-292D38?style=for-the-badge&logo=figma&logoColor=F24E1E"/> |
-
-<br>
-
-<!-- ────────────── PROJECTS SECTION ────────────── -->
-# 🚀 Select Projects
-
-| Project | Highlight |
-|---|---|
-| <b>Edu Smart Bot</b> | GenAI learning assistant: OCR, topic extraction, Q&A, analytics.  |
-| <b>Self-Driving Car AI Simulation</b> | RL (DQN), CNN vision, real-time track simulation. |
-| <b>Image Captioner</b> | Encoder–decoder, attention, BLEU-4: 0.32. |
-| <b>Tamil Language Lab</b> | TLM, OCR, AR/VR for Tamil text digitization. |
-
-<br>
-
-<!-- ──────────────── CONTACT & RESUME ──────────────── -->
+<!-- ─────────────── LINKS & BADGES ─────────────── -->
 <div align="center">
-  <a href="mailto:jshyam2005@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shyam-jayakanthan-050a85284">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="./Resume.pdf">Resume</a>
+  <a href="https://www.linkedin.com/in/shyam-jayakanthan-050a85284/">
+    <img src="https://img.shields.io/badge/LinkedIn-2B124C?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jshyam2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-190019?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Shyam2005">
+    <img src="https://img.shields.io/badge/HackerRank-38BDAE?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SHYAM140305&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile views" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2900&pause=800&color=38BDAE&center=true&vCenter=true&width=650&height=90&lines=AI+Engineer+%7C+Visionary+Innovator;Machine+Learning+Specialist;Open+Source+Enthusiast;Full+Stack+Technologist"/>
+  </a>
+</div>
+
+<!-- ─────────────── ABOUT ME ─────────────── -->
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/>
+        About Me
+      </h2>
+      <p>Hi! 👋 I'm <b>Shyam Jayakanthan</b>, an AI & Vision engineer passionate about transforming ideas into impactful technology. I design intelligent systems that see, understand, and interact with the world—bridging the gap from data to real-world solutions.</p>
+      <p>My expertise includes:</p>
+      <ul>
+        <li>🚀 Computer Vision & Image Analysis</li>
+        <li>🤖 Deep Learning & Neural Architectures</li>
+        <li>🌏 ML Model Deployment on Cloud/Edge</li>
+        <li>🛠️ Transfer Learning & Model Optimization</li>
+      </ul>
+      <p>I'm always exploring advancements in AI and developing projects that merge curiosity with tech for social and commercial impact.</p>
+    </td>
+    <td width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ─────────────── TECH Arsenal ─────────────── -->
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
+  Tech Arsenal
+</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </div>
 
 <br>
 
-<!-- ────────────── FOOTER ────────────── -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Object%20Detection-2B124C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Image%20Segmentation-2B124C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-190019?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Ops-38BDAE?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-2B124C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge%20AI-2B124C?style=flat-square&logoColor=white" />
+</div>
 
-<p align="center" style="font-size:13px;color:#AAB8C2;">Crafted for innovation · Shyam J · &copy; 2025</p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ─────────────── PROJECTS SECTION ─────────────── -->
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="35">
+  Featured Projects
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Fruit Quality Detector</h3>
+        <p align="center">
+          <a href="https://github.com/SHYAM140305/Fruit-quality-detection" target="_blank">
+            <img src="https://github.com/Pragadees15/Fruit-quality-detection/raw/main/images/fruit-detection.jpg" width="100%" alt="Fruit Quality Detection"/>
+          </a>
+        </p>
+        <p align="center">
+          A DL-powered model to classify fruit quality using CV and transfer learning. Indian fruit dataset · InceptionResNetV2.
+        </p>
+        <p align="center">
+          <a href="https://github.com/SHYAM140305/Fruit-quality-detection" target="_blank">
+            <img src="https://img.shields.io/badge/Code-190019?style=for-the-badge&logo=github"/>
+          </a>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Age & Gender Ad Display</h3>
+        <p align="center">
+          <a href="https://github.com/SHYAM140305/AdSmart-Display" target="_blank">
+            <img src="https://github.com/Pragadees15/AdSmart-Age-Gender-Based-Advertisement-Display/raw/main/images/ad-smart.jpg" width="100%" alt="AdSmart System"/>
+          </a>
+        </p>
+        <p align="center">
+          Computer vision app to predict age/gender from webcam, displaying targeted ads using OpenCV and face detection.
+        </p>
+        <p align="center">
+          <a href="https://github.com/SHYAM140305/AdSmart-Display" target="_blank">
+            <img src="https://img.shields.io/badge/Code-2B124C?style=for-the-badge&logo=github"/>
+          </a>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Sign Language Recognition</h3>
+        <p align="center">
+          <a href="https://github.com/SHYAM140305/Sign-Language-Recognition" target="_blank">
+            <img src="https://github.com/Pragadees15/-Sign-Language-Detection-Using-Deep-Learning/raw/main/images/sign-language.jpg" width="50%" alt="Sign Language Detection"/>
+          </a>
+        </p>
+        <p align="center">
+          Deep learning solution for recognizing Indian Sign Language (ISL) gestures—real-time inference with CNN.
+        </p>
+        <p align="center">
+          <a href="https://github.com/SHYAM140305/Sign-Language-Recognition" target="_blank">
+            <img src="https://img.shields.io/badge/Code-38BDAE?style=for-the-badge&logo=github"/>
+          </a>
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ─────────────── RESEARCH FOCUS ─────────────── -->
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="35">
+  Research Focus
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" height="60" width="60"/>
+        <h4>Visual Intelligence</h4>
+        <p>Building systems to understand the world’s visual complexity</p>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2777/2777142.png" height="60" width="60"/>
+        <h4>AI on Edge</h4>
+        <p>Optimizing deep networks for efficient inference on low-power devices</p>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2164/2164723.png" height="60" width="60"/>
+        <h4>Cross-domain Learning</h4>
+        <p>Applying transfer learning to adapt to new and varied domains</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ─────────────── STATS SECTION ─────────────── -->
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="35">
+  GitHub Analytics
+</h2>
+<p align="center">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAM140305&bg_color=190019&color=2B124C&line=38BDAE&point=FFFFFF&area=true&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=SHYAM140305&theme=dark&hide_border=true&stroke=fff&background=190019&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHYAM140305&show_icons=true&bg_color=2B124C&theme=dark&hide_border=true&title_color=38BDAE&icon_color=38BDAE&text_color=ffffff" width="49%" />
+</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHYAM140305&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=190019&title_color=38BDAE" width="40%" />
+</div>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ─────────────── HACKERRANK & CERTS ─────────────── -->
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="35">
+  Coding Achievements
+</h2>
+<div align="center">
+  <h2 style="color: #38BDAE;">🏆 HackerRank Profile 🏆</h2>
+  <h3>
+    <a href="https://www.hackerrank.com/profile/Shyam2005" target="_blank" style="text-decoration: none; color: #38BDAE;">
+      @Shyam2005
+    </a>
+  </h3>
+</div>
+<h3 align="center">HackerRank Badges</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h1>⭐⭐⭐</h1>
+        <strong>Problem Solving</strong>
+      </td>
+      <td align="center">
+        <h1>⭐⭐⭐</h1>
+        <strong>C++</strong>
+      </td>
+      <td align="center">
+        <h1>⭐⭐⭐</h1>
+        <strong>Java</strong>
+      </td>
+      <td align="center">
+        <h1>⭐⭐⭐</h1>
+        <strong>Python</strong>
+      </td>
+      <td align="center">
+        <h1>⭐⭐⭐</h1>
+        <strong>C</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>Certifications</h3>
+  <div style="background-color: #190019; padding: 15px; border-radius: 10px; border: 1px solid #38BDAE; display: inline-block; margin: 10px;">
+    <h1>🏆</h1>
+    <p><strong>Python (Basic)</strong> - Verified Skill Certification</p>
+  </div>
+</div>
+
+<div align="center">
+  <div style="background-color: #2B124C; padding: 15px; border-radius: 10px; border: 1px solid #38BDAE; margin: 20px 0; display: inline-block;">
+    <h4 style="color: #38BDAE;">Student Details | SHYAM JAYAKANTHAN</h4>
+    <p>SRM ID | SHYAM140305</p>
+  </div>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<!-- ─────────────── FOOTER ─────────────── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:38BDAE&height=120&section=footer&animation=twinkling" />
+</div>
+<div align="center">
+  <sub>Built with ❤️ by Shyam Jayakanthan</sub>
+</div>
+
+<!-- 
+Note: To activate this README as your GitHub profile readme:
+1. Rename your repo to match your GitHub username
+2. Place this README.md at the root
+3. Review/replace project links if needed 
+-->
