@@ -14,6 +14,9 @@
   <a href="https://www.hackerrank.com/profile/Shyam2005">
     <img src="https://img.shields.io/badge/HackerRank-38BDAE?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/SHYAMJ-140305/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=SHYAM140305&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile views" />
 </div>
 
@@ -308,38 +311,58 @@
   </table>
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="35" style="vertical-align: middle;"/>
-  <h2 style="color: #38BDAE; display: inline; margin-left: 10px;">LeetCode Profile</h2>
-</div>
 <div align="center">
+  <h2 style="color: #38BDAE;">🏆 LeetCode Profile 🏆</h2>
   <h3>
-    <a href="https://leetcode.com/u/shyam140305/" target="_blank" style="text-decoration: none; color: #38BDAE;">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-      <br/>@shyam140305 →
+    <a href="https://leetcode.com/u/SHYAMJ-140305/" target="_blank" style="text-decoration: none; color: #38BDAE;">
+      @SHYAMJ-140305
     </a>
   </h3>
 </div>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/shyam140305?theme=dark&font=Inter&extension=activity" alt="LeetCode Stats" width="100%" style="border-radius: 10px;"/>
+  <img src="https://leetcard.jacoblin.cool/SHYAMJ-140305?theme=dark&font=Inter&extension=activity" alt="LeetCode Stats" width="85%" style="border-radius: 10px;"/>
+</div>
+<h3 align="center">LeetCode Skills</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Data%20Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <p><strong>Data Structures</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Algorithms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <p><strong>Algorithms</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Database-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <p><strong>Database</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Shell-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <p><strong>Shell</strong></p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Concurrency-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+        <p><strong>Concurrency</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b5d5-5bfae8ad2f30.gif" width="80" alt="Coding"/>
-        <h3>Problem Solving</h3>
-        <p>Data Structures & Algorithms</p>
+        <img src="https://img.shields.io/badge/Problem%20Solving-2B124C?style=flat-square&logoColor=FFA116" />
+        <p><strong>Problem Solving</strong></p>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="Algorithms"/>
-        <h3>Competitive Programming</h3>
-        <p>Daily Challenges & Contests</p>
+        <img src="https://img.shields.io/badge/Competitive%20Programming-2B124C?style=flat-square&logoColor=FFA116" />
+        <p><strong>Daily Challenges</strong></p>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="Skills"/>
-        <h3>Skills Development</h3>
-        <p>Mastering Coding Patterns</p>
+        <img src="https://img.shields.io/badge/Coding%20Contests-2B124C?style=flat-square&logoColor=FFA116" />
+        <p><strong>Coding Contests</strong></p>
       </td>
     </tr>
   </table>
