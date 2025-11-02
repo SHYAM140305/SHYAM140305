@@ -215,7 +215,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHYAM140305&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=190019&title_color=38BDAE&cache_seconds=3600" width="40%" />
 </div>
 
-<h3 align="center">Most Used Languages</h3>
 <div align="center">
   <table>
     <tr>
