@@ -27,59 +27,120 @@
 </div>
 
 <!-- ─────────────── ABOUT ME ─────────────── -->
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"/>
-        About Me
-      </h2>
-      <p>Hi! 👋 I'm <b>Shyam Jayakanthan</b>, an AI & Vision engineer passionate about transforming ideas into impactful technology. I design intelligent systems that see, understand, and interact with the world—bridging the gap from data to real-world solutions.</p>
-      <p>My expertise includes:</p>
-      <ul>
-        <li>🚀 Computer Vision & Image Analysis</li>
-        <li>🤖 Deep Learning & Neural Architectures</li>
-        <li>🌏 ML Model Deployment on Cloud/Edge</li>
-        <li>🛠️ Transfer Learning & Model Optimization</li>
-      </ul>
-      <p>I'm always exploring advancements in AI and developing projects that merge curiosity with tech for social and commercial impact.</p>
-    </td>
-    <td width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35"/>
+    About Me
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="AI Engineer" style="border-radius: 50%; border: 3px solid #38BDAE;"/>
+</div>
+
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <p style="font-size: 18px; line-height: 1.8; color: #ffffff;">
+    👋 Hey there! I'm <span style="color: #38BDAE; font-weight: bold;">Shyam Jayakanthan</span>, an AI & Vision Engineer crafting the future of intelligent systems. 
+    I transform complex data into powerful solutions that understand and interact with the visual world around us.
+  </p>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <table style="margin: 0 auto; border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #190019 0%, #2B124C 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b5d5-5bfae8ad2f30.gif" width="50" alt="Vision"/>
+        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">Computer Vision</h3>
+        <p style="color: #ffffff; margin: 0;">Image Analysis & Processing</p>
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #2B124C 0%, #190019 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
+        <img src="https://user-images.githubusercontent.com/74038190/212281454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="AI"/>
+        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">Deep Learning</h3>
+        <p style="color: #ffffff; margin: 0;">Neural Networks & AI</p>
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #190019 0%, #2B124C 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" alt="Cloud"/>
+        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">ML Deployment</h3>
+        <p style="color: #ffffff; margin: 0;">Cloud & Edge AI</p>
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #2B124C 0%, #190019 100%); padding: 20px; border-radius: 15px; border: 2px solid #38BDAE;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt="Transfer"/>
+        <h3 style="color: #38BDAE; margin: 10px 0 5px 0;">Transfer Learning</h3>
+        <p style="color: #ffffff; margin: 0;">Model Optimization</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <p style="font-size: 16px; line-height: 1.8; color: #ffffff; font-style: italic;">
+    💡 Always exploring the cutting-edge of AI, I build systems that bridge the gap between innovative research and real-world applications—turning complex algorithms into practical solutions that make a difference.
+  </p>
+</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
 <!-- ─────────────── TECH Arsenal ─────────────── -->
-<h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
-  Tech Arsenal
-</h2>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35"/>
+    Tech Arsenal
+  </h2>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Object%20Detection-2B124C?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Image%20Segmentation-2B124C?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-190019?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML%20Ops-38BDAE?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transfer%20Learning-2B124C?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge%20AI-2B124C?style=flat-square&logoColor=white" />
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
+        <p><strong style="color: #38BDAE;">Python</strong></p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" alt="PyTorch"/>
+        <p><strong style="color: #38BDAE;">PyTorch</strong></p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" alt="TensorFlow"/>
+        <p><strong style="color: #38BDAE;">TensorFlow</strong></p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" alt="OpenCV"/>
+        <p><strong style="color: #38BDAE;">OpenCV</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
+        <p><strong style="color: #38BDAE;">React</strong></p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="60" alt="Docker"/>
+        <p><strong style="color: #38BDAE;">Docker</strong></p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/>
+        <p><strong style="color: #38BDAE;">MongoDB</strong></p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+        <p><strong style="color: #38BDAE;">JavaScript</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <h3 style="color: #38BDAE;">✨ Core Expertise</h3>
+  <p>
+    <img src="https://img.shields.io/badge/🎯%20Object%20Detection-2B124C?style=flat-square&logoColor=38BDAE" />
+    <img src="https://img.shields.io/badge/🖼️%20Image%20Segmentation-190019?style=flat-square&logoColor=38BDAE" />
+    <img src="https://img.shields.io/badge/🧠%20Neural%20Networks-2B124C?style=flat-square&logoColor=38BDAE" />
+    <img src="https://img.shields.io/badge/⚙️%20ML%20Ops-190019?style=flat-square&logoColor=38BDAE" />
+    <img src="https://img.shields.io/badge/🔄%20Transfer%20Learning-2B124C?style=flat-square&logoColor=38BDAE" />
+    <img src="https://img.shields.io/badge/📱%20Edge%20AI-190019?style=flat-square&logoColor=38BDAE" />
+  </p>
 </div>
 
 <p align="center">
