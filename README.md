@@ -93,34 +93,36 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Fruit Quality Detector</h3>
+        <h3 align="center">Edu Smart Bot</h3>
         <p align="center">
-          <a href="https://github.com/SHYAM140305/Fruit-quality-detection" target="_blank">
-            <img src="https://github.com/Pragadees15/Fruit-quality-detection/raw/main/images/fruit-detection.jpg" width="100%" alt="Fruit Quality Detection"/>
+          <a href="https://github.com/SHYAM140305/Edu-Smart-Bot" target="_blank">
+            <img src="https://raw.githubusercontent.com/SHYAM140305/Edu-Smart-Bot/main/assets/edu-smart-bot.gif" width="100%" alt="Edu Smart Bot"/>
           </a>
         </p>
         <p align="center">
-          A DL-powered model to classify fruit quality using CV and transfer learning. Indian fruit dataset · InceptionResNetV2.
+          AI-powered educational assistant featuring OCR, Q&A, analytics, and student learning tools.<br/>
+          <i>Python · Flask · React.js · NLP</i>
         </p>
         <p align="center">
-          <a href="https://github.com/SHYAM140305/Fruit-quality-detection" target="_blank">
+          <a href="https://github.com/SHYAM140305/Edu-Smart-Bot" target="_blank">
             <img src="https://img.shields.io/badge/Code-190019?style=for-the-badge&logo=github"/>
           </a>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Age & Gender Ad Display</h3>
+        <h3 align="center">Self-Driving Car AI Simulation</h3>
         <p align="center">
-          <a href="https://github.com/SHYAM140305/AdSmart-Display" target="_blank">
-            <img src="https://github.com/Pragadees15/AdSmart-Age-Gender-Based-Advertisement-Display/raw/main/images/ad-smart.jpg" width="100%" alt="AdSmart System"/>
+          <a href="https://github.com/SHYAM140305/Self-Driving-Car-AI-Simulation" target="_blank">
+            <img src="https://raw.githubusercontent.com/SHYAM140305/Self-Driving-Car-AI-Simulation/main/assets/self-driving-demo.gif" width="100%" alt="Self-Driving Car AI"/>
           </a>
         </p>
         <p align="center">
-          Computer vision app to predict age/gender from webcam, displaying targeted ads using OpenCV and face detection.
+          Autonomous driving simulator using DQN, computer vision, and reward-driven learning in Unity.<br/>
+          <i>PyTorch · Unity3D · CV</i>
         </p>
         <p align="center">
-          <a href="https://github.com/SHYAM140305/AdSmart-Display" target="_blank">
+          <a href="https://github.com/SHYAM140305/Self-Driving-Car-AI-Simulation" target="_blank">
             <img src="https://img.shields.io/badge/Code-2B124C?style=for-the-badge&logo=github"/>
           </a>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -129,20 +131,21 @@
     </tr>
     <tr>
       <td colspan="2">
-        <h3 align="center">Sign Language Recognition</h3>
+        <h3 align="center">Sign Language Detection Using Deep Learning</h3>
         <p align="center">
           <a href="https://github.com/SHYAM140305/Sign-Language-Recognition" target="_blank">
-            <img src="https://github.com/Pragadees15/-Sign-Language-Detection-Using-Deep-Learning/raw/main/images/sign-language.jpg" width="50%" alt="Sign Language Detection"/>
+            <img src="https://raw.githubusercontent.com/SHYAM140305/Sign-Language-Recognition/main/assets/sign-language-demo.gif" width="50%" alt="Sign Language Detection"/>
           </a>
         </p>
         <p align="center">
-          Deep learning solution for recognizing Indian Sign Language (ISL) gestures—real-time inference with CNN.
+          Deep learning solution for Indian Sign Language (ISL) gesture recognition using CNNs.<br/>
+          <i>Python · Deep Learning · Computer Vision</i>
         </p>
         <p align="center">
           <a href="https://github.com/SHYAM140305/Sign-Language-Recognition" target="_blank">
             <img src="https://img.shields.io/badge/Code-38BDAE?style=for-the-badge&logo=github"/>
           </a>
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         </p>
       </td>
     </tr>
