@@ -100,6 +100,15 @@
   </blockquote>
 </div>
 
+<!-- ✨ JavaScript Animated Section -->
+<div align="center" style="margin: 60px 0;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=FFA116&center=true&vCenter=true&width=700&height=70&lines=JavaScript%20is%20the%20Boss%21;Full-Stack%20Powerhouse;Driving%20the%20Modern%20Web" alt="JavaScript Typing Animation" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="JavaScript Animation">
+</div>
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
