@@ -17,13 +17,11 @@
   <a href="https://leetcode.com/u/SHYAMJ-140305/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SHYAM140305&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2900&pause=800&color=38BDAE&center=true&vCenter=true&width=650&height=90&lines=AI+Engineer+%7C+Visionary+Innovator;Machine+Learning+Specialist;Open+Source+Enthusiast;Full+Stack+Technologist"/>
+  <!-- 📄 Resume Button -->
+  <a href="https://github.com/SHYAM140305/SHYAM140305/raw/main/Shyam%20Resume.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Resume-2B124C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SHYAM140305&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile views" />
 </div>
 
 <!-- ─────────────── ABOUT ME ─────────────── -->
