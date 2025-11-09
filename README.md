@@ -17,6 +17,12 @@
   <a href="https://leetcode.com/u/SHYAMJ-140305/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
+  <!-- 🌐 Portfolio Button -->
+  <a href="https://shyamj.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-38BDAE?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
   <!-- 📄 Resume Button -->
   <a href="https://github.com/SHYAM140305/SHYAM140305/raw/main/Shyam%20Resume.pdf" download>
     <img src="https://img.shields.io/badge/📄%20Resume-2B124C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
