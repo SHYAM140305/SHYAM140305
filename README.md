@@ -3,37 +3,43 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:38BDAE&height=300&section=header&text=Shyam%20Jayakanthan&desc=AI%20%7C%20Vision%20%7C%20Innovation&fontSize=58&fontAlignY=35&descAlignY=58&animation=twinkling&fontColor=ffffff&descColor=38BDAE" />
 </div>
 
-<!-- ─────────────── LINKS & BADGES (UPDATED COLORS + NEW PORTFOLIO LOGO) ─────────────── -->
+<!-- ─────────────── LINKS & BADGES (UPDATED COLORS + VISIBLE LOGOS) ─────────────── -->
 <div align="center">
+
+  <!-- LinkedIn Button (With Visible Logo) -->
   <a href="https://www.linkedin.com/in/shyam-jayakanthan-050a85284/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <!-- Email -->
   <a href="mailto:jshyam2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/Shyam2005">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/SHYAMJ-140305/">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <!-- 🌐 UPDATED Portfolio Button with Different Logo & Color -->
+  <!-- 🌐 Portfolio Button (Working Visible Globe Logo) -->
   <a href="https://shyamj.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
-  <!-- 📄 Resume Button in New Color -->
+  <!-- 📄 Resume Button (Visible PDF Logo) -->
   <a href="https://github.com/SHYAM140305/SHYAM140305/raw/main/Shyam%20Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-FF007F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 
-  <!-- Profile Views Badge (kept default but new color) -->
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SHYAM140305&label=Profile%20Views&color=00BFA6&style=for-the-badge" />
 </div>
+
 <!-- ─────────────── ABOUT ME ─────────────── -->
 <div align="center">
   <h2>
