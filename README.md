@@ -32,9 +32,9 @@
   </a>
 
   <!-- 📄 Resume Button (Visible PDF Logo) -->
-  <a href="https://github.com/SHYAM140305/SHYAM140305/raw/main/Shyam%20Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+  <a href="https://github.com/SHYAM140305/SHYAM140305/raw/main/Shyam Resume.pdf" download>
+  <img src="https://img.shields.io/badge/Resume-E63946?style=for-the-badge&logo=adobe&logoColor=white" />
+</a>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SHYAM140305&label=Profile%20Views&color=00BFA6&style=for-the-badge" />
