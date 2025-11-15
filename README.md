@@ -1,6 +1,6 @@
 <!-- ──────────────── BANNER ──────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:38BDAE&height=300&section=header&text=Shyam%20Jayakanthan&desc=AI%20%7C%20Vision%20%7C%20Innovation&fontSize=58&fontAlignY=35&descAlignY=58&animation=twinkling&fontColor=ffffff&descColor=38BDAE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:190019,50:2B124C,100:38BDAE&height=300&section=header&text=Shyam%20Jayakanthan&desc=AI%20%7C%20Data%20Scientist&fontSize=58&fontAlignY=35&descAlignY=60&animation=twinkling&fontColor=ffffff&descColor=38BDAE" />
 </div>
 
 <!-- ─────────────── LINKS & BADGES (UPDATED COLORS + VISIBLE LOGOS) ─────────────── -->
